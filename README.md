@@ -1,7 +1,7 @@
 ![Drag Racing](tfjs-logo.png)
 
 # tfjs-mobilenet-offline-model
-This is an offline version of MobileNet pre-trained model for TensorFlow.JS for use with the Node.JS version of the library
+This is an offline version of [MobileNet](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md) pre-trained model for [TensorFlow.JS](https://www.tensorflow.org/js) for use with the Node.JS version of the library
 
 ## What is this?
 
@@ -12,6 +12,10 @@ Instructions for downloading the mode configuration file and mode weights can be
 _(Scroll down until you find the `MobileNet Models` section))
 
 Kudos to [James Thomas](https://about.me/j_thomas)
+
+## Versions uploaded
+
+- v1_1.0_224
 
 ## Step-by-step process of downloading the files
 
