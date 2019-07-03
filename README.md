@@ -31,7 +31,7 @@ Check out this excellent post: [Machine Learning in Node.js With TensorFlow.js](
 
 - [v1_1.0_224.zip](https://github.com/kostasx/tfjs-mobilenet-offline-model/raw/master/models/v1_1.0_224.zip)
 
-## Step-by-step process of downloading the files
+## Step-by-step process of downloading the model files
 
 `$ brew install jq`
 
