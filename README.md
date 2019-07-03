@@ -17,13 +17,13 @@ Kudos to [James Thomas](https://about.me/j_thomas)
 
 Check out this excellent post: [Machine Learning in Node.js With TensorFlow.js](http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/)
 
-## Quick Setup Demo
+## Quick Demo Setup (Node.JS)
 
 - [Download Gist](https://gist.github.com/kostasx/1562671045aee2c0eb98363c69aecae9/archive/4cbad09afaafd7f72a65ec98074778eee0428cf6.zip)
 - Unzip and `cd` to the newly created directory
 - `$ npm install`
 - [Download Model](https://github.com/kostasx/tfjs-mobilenet-offline-model/raw/master/models/v1_1.0_224.zip)
-- Unzip model. It will create a folder: `v1_1.0_224`
+- Unzip model. It will create a folder: `v1_1.0_224`. Move it into your project folder.
 - Download a sample image: `$ wget http://bit.ly/2JYSal9 -O panda.jpg`
 - Predict: `$ node mobilenet-node.js v1_1.0_224 panda.jpg`
 
