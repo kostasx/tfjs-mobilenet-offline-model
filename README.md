@@ -13,6 +13,10 @@ _(Scroll down until you find the `MobileNet Models` section)_
 
 Kudos to [James Thomas](https://about.me/j_thomas)
 
+## Where can it be used?
+
+Check out this excellent post: [Machine Learning in Node.js With TensorFlow.js](http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/)
+
 ## Versions uploaded
 
 - v1_1.0_224
