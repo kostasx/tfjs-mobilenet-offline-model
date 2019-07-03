@@ -1,7 +1,7 @@
 ![Drag Racing](tfjs-logo.png)
 
 # tfjs-mobilenet-offline-model
-This is an offline version of [MobileNet](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md) pre-trained model for [TensorFlow.JS](https://www.tensorflow.org/js) for use with the Node.JS version of the library
+This is an offline version of [MobileNet](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md) pre-trained model for [TensorFlow.JS](https://www.tensorflow.org/js) for use with the Node.JS version of the library. The files residing in the models directory contain the neccessary `model.json` configuration file as well as the set of sharded weight files in binary format. 
 
 ## What is this?
 
